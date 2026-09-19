@@ -36,3 +36,34 @@ export interface QuickLinkItem {
   actionPayload?: string;
   isFeatured?: boolean;
 }
+
+export interface ResumeEducationItem {
+  id: string;
+  degree: string;
+  institution: string;
+  gpa: string;
+  status: string;
+  concentration?: string;
+  minor?: string;
+  honors?: string;
+}
+
+export interface ResumeExperienceItem {
+  id: string;
+  role: string;
+  company: string;
+  location: string;
+  period: string;
+  current?: boolean;
+  highlights: string[];
+  tags: string[];
+}
+
+export interface ResumeAccoladeItem {
+  id: string;
+  category: string;
+  title: string;
+  badge: string;
+  description: string;
+}
+

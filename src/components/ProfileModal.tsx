@@ -73,7 +73,7 @@ export const ProfileModal: React.FC<ProfileModalProps> = ({
               {PROFILE.bio}
             </p>
             <p className="text-[#44474d] leading-relaxed">
-              Passionate about architectural craftsmanship, type rhythm, and building software that feels crisp, effortless, and reliably fast.
+              Former collegiate cross-country team captain at NWACC and avid distance runner, active in community young professionals organizations and collegiate student ministries at the University of Arkansas.
             </p>
           </div>
 

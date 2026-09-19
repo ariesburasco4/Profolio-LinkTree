@@ -282,10 +282,10 @@ export const LinksScreen: React.FC<LinksScreenProps> = ({
         </motion.div>
       </div>
 
-      {/* Footer text exactly from design */}
+      {/* Footer text matching portfolio website */}
       <footer className="mt-10 mb-6 text-center px-4">
         <p className="text-[11px] sm:text-xs text-[#75777e] font-medium leading-relaxed">
-          Aries Burasco • Portfolio Link Tree • Powered by Clean Web Design
+          © 2025 Aries Burasco • Sam M. Walton College of Business • Rogers, AR
         </p>
       </footer>
     </div>

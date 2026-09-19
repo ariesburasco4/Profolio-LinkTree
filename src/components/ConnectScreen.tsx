@@ -40,8 +40,8 @@ export const ConnectScreen: React.FC<ConnectScreenProps> = ({ onCopySuccess }) =
 VERSION:3.0
 N:Burasco;Aries;;;
 FN:Aries Burasco
-ORG:Clean Web Design
-TITLE:Senior Product Designer & Full-Stack Engineer
+ORG:Wilshar Steel / University of Arkansas
+TITLE:Procurement & Analytics Specialist
 EMAIL;TYPE=INTERNET,PREF:${PROFILE.email}
 URL:${PROFILE.linkedin}
 NOTE:${PROFILE.headline}
