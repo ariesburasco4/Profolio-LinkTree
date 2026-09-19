@@ -2,5 +2,7 @@
   "name": "Aries Burasco Portfolio",
   "description": "Executive portfolio link tree and digital showcase for Aries Burasco, featuring verified credentials, curated works, press, and contact channels.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
