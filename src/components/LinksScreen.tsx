@@ -143,7 +143,7 @@ export const LinksScreen: React.FC<LinksScreenProps> = ({
                 <ExternalLink className="w-3.5 h-3.5 text-[#75777e] shrink-0 stroke-[2.2]" />
               </div>
               <p className="text-[#75777e] text-[13px] font-normal truncate mt-0.5">
-                linkedin.com/in/aries-burasco-1...
+                linkedin.com/in/aries-burasco-13168b290...
               </p>
             </div>
           </div>

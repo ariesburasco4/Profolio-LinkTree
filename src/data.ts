@@ -6,8 +6,8 @@ export const PROFILE = {
   headline: 'Senior Product Designer & Full-Stack Engineer',
   bio: 'Specializing in design systems, high-performance web applications, and intuitive human-computer interfaces. Over 8 years of experience building products used by millions worldwide.',
   email: 'ariesburasco4@gmail.com',
-  linkedin: 'https://linkedin.com/in/aries-burasco-1',
-  portfolio: 'https://cleanwebdesign.dev/aries',
+  linkedin: 'https://www.linkedin.com/in/aries-burasco-13168b290/',
+  portfolio: 'https://ariesburasco4.github.io/Portfolio-Website/',
   github: 'https://github.com/ariesburasco',
   location: 'San Francisco, CA & Remote',
   availability: 'Available for Select Projects & Advisory',
@@ -32,10 +32,10 @@ export const QUICK_LINKS: QuickLinkItem[] = [
   {
     id: 'linkedin',
     title: 'LinkedIn Profile',
-    subtitle: 'linkedin.com/in/aries-burasco-1...',
+    subtitle: 'linkedin.com/in/aries-burasco-13168b290...',
     iconType: 'linkedin',
     actionType: 'external',
-    actionPayload: 'https://www.linkedin.com/in/aries-burasco-1'
+    actionPayload: 'https://www.linkedin.com/in/aries-burasco-13168b290/'
   },
   {
     id: 'email',
@@ -51,7 +51,7 @@ export const QUICK_LINKS: QuickLinkItem[] = [
     subtitle: 'Explore Full Portfolio & Projects',
     iconType: 'portfolio',
     actionType: 'modal',
-    actionPayload: 'https://cleanwebdesign.dev/aries'
+    actionPayload: 'https://ariesburasco4.github.io/Portfolio-Website/'
   }
 ];
 
